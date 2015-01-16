@@ -11,25 +11,25 @@
 
 # who cares?
 
-Walmart: 100ms improvement = up to 1% incremental revenue [^1]
+Walmart: 100ms improvement = up to 1% incremental revenue
 
-[^1]: [WalmartLabs performance slide deck](http://www.slideshare.net/devonauerswald/walmart-pagespeedslide)
-
----
-
-# who cares?
-
-Firefox: -2.2s on download page → +15.4% downloads [^2]
-
-[^2]: [Firefox & Page Load Speed – Part II](http://blog.mozilla.org/metrics/2010/04/05/firefox-page-load-speed-%E2%80%93-part-ii/)
+*Source: [WalmartLabs performance slide deck](http://www.slideshare.net/devonauerswald/walmart-pagespeedslide)*
 
 ---
 
 # who cares?
 
-- Google: 100-400ms results slowdown → 0.2%-0.6% fewer searches per user [^3]
+Firefox: -2.2s on download page → +15.4% downloads
 
-[^3]: [Google Research Blog: Speed Matters](http://googleresearch.blogspot.com/2009/06/speed-matters.html)
+*Source: [Firefox & Page Load Speed – Part II](http://blog.mozilla.org/metrics/2010/04/05/firefox-page-load-speed-%E2%80%93-part-ii/)*
+
+---
+
+# who cares?
+
+- Google: 100-400ms results slowdown → 0.2%-0.6% fewer searches per user
+
+*Source: [Google Research Blog: Speed Matters](http://googleresearch.blogspot.com/2009/06/speed-matters.html)*
 
 ---
 
@@ -161,7 +161,10 @@ Focus on progress feels faster
     + rotation: `rotate(90deg);`
     + opacity: `opacity: 0.5;`
 
-[^4]: [Paul Irish: High Performance Animations](http://www.html5rocks.com/en/tutorials/speed/high-performance-animations/), [Demo: The wrong way](http://codepen.io/paulirish/pen/nkwKs), [Demo: The right way](http://codepen.io/paulirish/pen/LsxyF)
+*Sources:*
+- *[Paul Irish: High Performance Animations](http://www.html5rocks.com/en/tutorials/speed/high-performance-animations/)*
+- *[Demo: The wrong way](http://codepen.io/paulirish/pen/nkwKs)*
+- *[Demo: The right way](http://codepen.io/paulirish/pen/LsxyF)*
 
 ---
 
