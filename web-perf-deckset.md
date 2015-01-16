@@ -1,11 +1,11 @@
-#  an introduction to practical
-#  web performance
+# [fit] an introduction to practical
+# [fit] web performance
 
 ---
 
-## mike schneider
-## brand networks
-## january, 2015
+## [fit]mike schneider
+## [fit]brand networks
+## [fit]january, 2015
 
 ---
 
@@ -48,9 +48,9 @@ Firefox: -2.2s on download page → +15.4% downloads [^2]
 
 ---
 
-# 10 ways to make your
-# stupid website feel really fast
-## *(and you don't even have to care about algorithmic complexity)*
+#[fit] 10 ways to make your
+#[fit] stupid website feel really fast
+##[fit] *(and you don't even have to care about algorithmic complexity)*
 
 ---
 
@@ -58,49 +58,49 @@ Firefox: -2.2s on download page → +15.4% downloads [^2]
 
 ---
 
-# Minify your CSS, JS, HTML
+#[fit] Minify your CSS, JS, HTML
 
-## `cssmin`, `uglify.js`, `htmlmin`
+##[fit] `cssmin`, `uglify.js`, `htmlmin`
 
 ### *(eliminate unnecessary whitespace, shorten variable names, etc)*
 
 ---
 
-# Concatenate your CSS and JS
-## `gulp-concat`, `grunt-contrib-concat`
+#[fit] Concatenate your CSS and JS
+##[fit] `gulp-concat`, `grunt-contrib-concat`
 
 ---
 
-# Load your CSS in the `<head>`
-# and your JS right before `</body>`
+#[fit] Load your CSS in the `<head>`
+#[fit] and your JS right before `</body>`
 
 ---
 
-# Inline above-the-fold CSS
+#[fit] Inline above-the-fold CSS
 
-## *`Critical` by Addy Osmani*
-## *`criticalCSS` by Filament Group*
+##[fit] *`Critical` by Addy Osmani*
+##[fit] *`criticalCSS` by Filament Group*
 
 ### **(this one is kinda hard)**
 
 ---
 
-# Compress your images
+#[fit] Compress your images
 
-## `gulp-image` and `grunt-image`
-## losslessly compress all image types
+##[fit] `gulp-image` and `grunt-image`
+##[fit] losslessly compress all image types
 
-### *sometimes these mangle SVGs, so be careful*
+###[fit] *sometimes these mangle SVGs, so be careful*
 
 ---
 
-# Use a CDN for static content
+#[fit] Use a CDN for static content
 
 ## Amazon S3 + Cloudfront
 
 ---
 
-# Leverage browser caching
+#[fit] Leverage browser caching
 ## `Cache-Control`  http header
 
 - index.html
@@ -111,7 +111,7 @@ Firefox: -2.2s on download page → +15.4% downloads [^2]
 
 ---
 
-# Leverage browser caching
+#[fit] Leverage browser caching
 
 ```javascript
 // gulpfile.js for a static website
@@ -181,7 +181,7 @@ Use Chrome Dev tools to throttle your network speed
 
 ---
 
-#  Keep informed: follow these people on Twitter
+# [fit] Keep informed: follow these people on Twitter
 + *@paul_irish*, Google Chrome developer advocate
 + *@lukew*, author of *Mobile First*
 + *@scottjehl*, author of *Responsible Responsive Design*
